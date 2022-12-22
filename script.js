@@ -61,8 +61,6 @@ const gameManager = (() => {
   }
 
   const checkWinner = () => {
-    //TODO
-
     //Check rows
     for (let i = 0; i < 3; i++) {
       if (
