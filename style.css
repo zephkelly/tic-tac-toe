@@ -30,7 +30,7 @@ main {
   z-index: -1;
 }
 
-.gameboard {
+#gameboard {
   margin-top: 3rem;
   margin-bottom: 2rem;
   width: 45vw;
